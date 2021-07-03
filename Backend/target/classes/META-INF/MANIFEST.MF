@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mubashrin
+Implementation-Vendor-Id: com.emp
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://spring.io/projects/spring-boot/Backend
+Created-By: Maven Integration for Eclipse
+
